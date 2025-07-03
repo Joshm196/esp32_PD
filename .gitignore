@@ -1,0 +1,7 @@
+*.bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.dcm
+*.net
+*.xml
+*.lck
