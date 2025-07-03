@@ -36,4 +36,4 @@ someone who knows what they are doing could change this with the sink's i2c pins
 **P.S.** This is my first time designing PCBs, so if something looks wrong, it's probably because it is—**and you should tell me... PLEASE** 🙃
 
 
-![Schematic](schematic.png)
+![Schematic](schematics/schematic.png)
